@@ -1,0 +1,17 @@
+.custom-bg {
+    background: #FEEAE9;
+}
+.top-bar h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+.catagor-item {
+    width: 32%;
+}
+.form-div h2 {
+    font-size: 40px;
+}
+.form-div p {
+    font-size: 16px;
+    font-weight: 500;
+}
